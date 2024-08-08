@@ -2,8 +2,8 @@
 
 Meu nome é Isabelli Rupolo
 
-- Etou estudando no Alura
-- EStou em desenvolvimento na linguagem JavaScript
+- Estou estudando no Alura
+- Estou em desenvolvimento na linguagem JavaScript
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ## Você pode entrar em contato comigo 
